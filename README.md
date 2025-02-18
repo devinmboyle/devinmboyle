@@ -2,7 +2,7 @@
 
 I'm a backend software engineer with 6+ years of experience across the telecom, LNG, healthcare, and payments industries.
 I studied Computer Science at University of Alaska Anchorage, but have recently moved to Nevada.
-I spend my personal time on creative writing that I occasionally [blog](https://welltree.blog/ and getting outdoors, but I'll be spending more time in the near future building out my GitHub while brushing up on some C# and JavaScript.
+I spend my personal time on creative writing that I occasionally (blog)[https://welltree.blog/] and getting outdoors, but I'll be spending more time in the near future building out my GitHub while brushing up on some C# and JavaScript.
 
 <!--
 **devinmboyle/devinmboyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
